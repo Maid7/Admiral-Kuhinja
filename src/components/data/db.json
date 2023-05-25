@@ -1,0 +1,232 @@
+{
+  "recipes": [
+    {
+      "id": 0,
+      "title": "Bomba od jagoda",
+      "ingredients": [
+        "100g brasna",
+        "50g putera",
+        "30g secera",
+        "zumance",
+        "200g dzema od jagoda",
+        "200ml slatke pavlake",
+        "150g jagoda",
+        "50g sjeckanih badema"
+      ],
+      "image_url": "https://cdn.shopify.com/s/files/1/0485/5382/0316/products/S07.jpg?v=1659556042",
+      "cooking_time": "30",
+      "how_to_make": "Od brasna, razmeksanog putera,secera i zumanceta zamijesiti tjesto,uviti ga u foliju i ostaviti da se hladi jedan sat.Pecnicu zagrijati na 180 stepeni",
+      "type": "sweet",
+      "servings": "4 osobe"
+    },
+    {
+      "id": 1,
+      "title": "Svarcvald torta od visanja",
+      "ingredients": [
+        "3 jajeta",
+        "90gr secera",
+        "60gr brasna",
+        "40gr jestivog skroba",
+        "25gr kakaa",
+        "600gr visanja",
+        "kesica vanilinog secera",
+        "400ml slatke pavlake",
+        "krupno strugane cokolade"
+      ],
+      "image_url": "https://www.alsothecrumbsplease.com/wp-content/uploads/2019/07/Black-Forest-Cake-12.jpg",
+      "cooking_time": "65",
+      "how_to_make": "Pecnicu zagrijati na 180°C.Manji okrugli kalup obloziti pek papirom.Razdvojiti zumanca od belanaca,zumanca umutiti sa 3 kasike tople vode i secerom.Preko toga izruciti sneg od belanaca i preko toga izruciti snijeg od belanaca i preko njega prosejati brasno,skrob,kakaa i sve umutiti.Masu istresti u kalup i peci oko 30 minuta.Kad se tjesto ohladi vodoravno isjeci na 3 dijela.Visnje ocijediti,sok sacuvati i u njega umesati skrob i vanilin secer,i prokuhati da se zgusne.Kad se ohladi staviti nekoliko visanja.Pavlaku ulupati sa secerom u pravu.Donju koru poprskati sokom od visanja,preko nje rasporediti polovinu visanja u soku.Staviti drugu koru i malo pritisnuti,pa preko nje rasporediti polovinu slaga i preostale visnje.Donju stranu trece kore poprskati sokom od visanja i stavite je preko visanja sa slagom.Tortu premazati preostalim slagom i ukrasiti visnjama i cokoladom",
+      "type": "sweet",
+      "servings": "10 osobe"
+    },
+    {
+      "id": 2,
+      "title": "Janjeci ragu",
+      "ingredients": [
+        "600gr janjecee krtine",
+        "300gr sampinjona",
+        "2 glavice luka",
+        "3 paradajza",
+        "2 kocke za supu",
+        "5 cesnjaka bijelog luka",
+        "80gr margarina",
+        "1 kasika brasna",
+        "sol",
+        "1 kasika zacina"
+      ],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/580ed0ff579fb30c943c8137/1607457065175-F8YNVE4MP7VA07164CD0/IMG_1259.jpg",
+      "cooking_time": "50",
+      "how_to_make": "Meso isjecemo na kocke,glavice luka krupnije isjecemo.Sampinjone isjecemo na deblje listove,paradajz na kocke.U serpi przimo luk,kada luk omeksa,stavljamo meso.U serpu sa 500ml vode stavimo kocku za supu.Kada meso pobijeli,u serpu dodamo sampinjone,bijeli luk i paradajz.Stavimo zacine,posolimo i pomijesamo.Ostavimo da se kuha 40min.U sud stavimo brasno,dodamo dbije kutljace supe i promijesamo.Razmeksano brasno dodamo u serpu.Posle 5 minuta kuhanja sklonimo serpu sa sporeta.Istresemo u oval sa prilogom od povrca i dekorisemo po zelji.",
+      "type": "savory",
+      "servings": "3 osobe"
+    },
+    {
+      "id": 3,
+      "title": "Mancmelou kolac",
+      "ingredients": [
+        "4 zumanceta",
+        "1/2 soljice secera",
+        "1 soljica ostrog brasna",
+        "1/2 soljica mlijeka",
+        "1/4 soljica ulja",
+        "1 prasak za pecivo",
+        "2 kasike kakaa",
+        "4 bjelanceta",
+        "2-3 kasike vode",
+        "100gr cokolade za kuhanje"
+      ],
+      "image_url": "https://images.doza.network/www.dobrakuhinja.com/728x546/a41d74af5b2742639d71c784a244f747.jpg",
+      "cooking_time": "30",
+      "how_to_make": "Zumanca umutiti sa secerom.Dodajte brasno i prasak za pecivo,mlijeko,ulje i kako,i sve dobro sjediniti.Pecite u rerni 15 minuta na 200 stepeni i dobro ohladiti.Za saum dobrop izradite bjelanca sa 2 kasike secera.Posebno otopite na vatri 6 kasika secera i 2-3 kasice vode,uz stalno mijesanje.Istopljeni secer sipajte polako u posudu s bjelancima i sve dobro izmjesajte.Saum odmah premazite na ohladjeni biskvit.Na kraju na pari istopite cokoladu i margarin i prelijte po kolacu",
+      "type": "sweet",
+      "servings": "8 osobe"
+    },
+    {
+      "id": 4,
+      "title": "Studentske kuglice",
+      "ingredients": [
+        "300gr mljevenog keksa",
+        "300gr mlijecne ili noisette cokolade",
+        "2 jajeta",
+        "4 zlice secera",
+        "malo mlijeka",
+        "kokos"
+      ],
+      "image_url": "https://www.tortekolacirecepti.com/wp-content/uploads/2018/10/Kokos-kuglice.jpg",
+      "cooking_time": "20",
+      "how_to_make": "Keks,jaja,secer i cokoladu istopljenu u malo mlijeka pomijesati i napraviti gustu smjesu.Napraviti kuglice velicine kestena i uvaljati ih u kokos.Kuglice servirati u ukrasnim kosaricama.U smjesu po zelji mozete dodatu usitnjene orahe,ljesnake,bademe,visnje... ",
+      "type": "sweet",
+      "servings": "10+ osobe"
+    },
+    {
+      "id": 5,
+      "title": "Muffini sa spinatom",
+      "ingredients": [
+        "500g spinata",
+        "400gr mladog sira",
+        "8 kasica",
+        "4 kasike kukuruzno griza",
+        "1/2 solje ulja",
+        "4 jajeta",
+        "sol",
+        "prasak za pecivo",
+        "malo mlijeka po potrebi"
+      ],
+      "image_url": "https://thishealthykitchen.com/wp-content/uploads/2018/05/spinach-banana-muffins_-2.jpg",
+      "cooking_time": "25",
+      "how_to_make": "Oprati spinat,ostaviti da se okapa a zatim ga iskidati rukama na krupne komade.Jaja dobro umutiti mikserom,dodati ulje,sir,sukuruzni kriz,psenicno brasno,so,prasak za pecivo i malo mlijeka.Ostaviti par minuta da smjesa odstoji.Smjesa treba da je malo gusca nego za palcinke.Dodati ocjedjeni spinat,izmjesati i puniti kalupe za muffine.Peci u zagrijanoj rerni do zlatno-zute boje",
+      "type": "savory",
+      "servings": "8 osobe"
+    },
+    {
+      "id": 6,
+      "title": "Gusta supa od mrkve i krompira",
+      "ingredients": [
+        "2 krompira",
+        "2-3 mrkve",
+        "sol",
+        "zacini",
+        "brasno",
+        "palvaka za kuhanje",
+        "brokuli",
+        "grasak"
+      ],
+      "image_url": "https://www.bitesofberi.com/wp-content/uploads/2020/08/carrot-potato-soup-1.jpg",
+      "cooking_time": "30",
+      "how_to_make": "Krompir i sargarepu kuhati u slanoj vodi(staviti i malo zacina i persuna).Kad se skuhaju,izvaditi ih,zgnjeciti u vodi,dodati pavlaku za kuhanje i vratiti zgnjeceno povrce.Kuhati jos 5 minuta,pa po potrebi,zgusnuti sa veoma malo brasna pomjesanog sa vodom",
+      "type": "savory",
+      "servings": "4 osobe"
+    },
+    {
+      "id": 7,
+      "title": "Krompir salata",
+      "ingredients": [
+        "1kg skuhanog krompira",
+        "2 glavice crnog luka",
+        "150gr majoneze",
+        "4 skuhana jaja",
+        "2 konzerve sardine",
+        "ulje",
+        "biber",
+        "sol"
+      ],
+      "image_url": "https://www.closetcooking.com/wp-content/uploads/2021/06/Warm-German-Potato-Salad-1200-4890.jpg",
+      "cooking_time": "35",
+      "how_to_make": "Glavice crnog luka sitno isjecemo i stavimo u veci sud Skuhane krompire oljustimo,isjecemo na kocke i dodamo u sud.Skuhana jaja isjecemo na cetvrtine,stavimo u drugi sud,izgnjecimo jaja u sardine te ih dodamo u sud sa lukom i krompirom,posolimo,pobiberimo,dodamo makonezu i izmjesamo.",
+      "type": "savory",
+      "servings": "6 osobe"
+    },
+    {
+      "id": 8,
+      "title": "Kolac sa piskotama",
+      "ingredients": [
+        "3 paketa piskota",
+        "1/2 litre mlijeka",
+        "1 margarin",
+        "2 pudinga od vanilije",
+        "8 kasika secera u prahu",
+        "1 banana za fil",
+        "1 zumance"
+      ],
+      "image_url": "https://slatkisvijet.com/ljetni-kolac-s-malinama-bez-pecenja-mascarpone_2.jpg",
+      "cooking_time": "20",
+      "how_to_make": "U pola litre mlijeka skuhati puding,kad se puding ohladi sastaviti sa umucenim margarinom,secerom i zumancetom.Umociti piskote u mlijeko i redati pa preko banane naprskati limunovim sokom,pa filmpa tako redom.Odozgo premazati slagom",
+      "type": "sweet",
+      "servings": "8-10 osobe"
+    },
+    {
+      "id": 9,
+      "title": "Krem supa od bundeve",
+      "ingredients": [
+        "400gr bundeve",
+        "1 crveni luk",
+        "1 zlica maslaca",
+        "vrhnje",
+        "4 kasike masnijeg kiselog vrhnja",
+        "sol",
+        "mesna supa"
+      ],
+      "image_url": "https://hellolittlehome.com/wp-content/uploads/2020/11/roasted-pumpkin-soup-2.jpg",
+      "cooking_time": "15",
+      "how_to_make": "Narezite bundavu na kockice.Ocistite i sitno isjeckajte luk.Rastopite maslac u posudi za kuhanje pa na njemu pirjajte luk da postane slatkast.Dodajte kockise bundave i zalijte vodom.Potom dodajte mesnu supu i poklopljeno lagano kuhajte 15 minuta.Dobro izmiksajte jugu solju i kajenskom paprikom pa jos jednom prokuhajte.Nalijte supu u 4 tanjira.U svaki dodajte po zlicu kiselog vrhnja,vrhom noza napravite saru i odmah posluzite.",
+      "type": "savory",
+      "servings": "4 osobe"
+    },
+    {
+      "id": 10,
+      "title": "Grah sa kobasicama",
+      "ingredients": [
+        "1 crveni luk",
+        "1 zlica ulja",
+        "200gr kobasica",
+        "1 limenka oguljenih rajcica",
+        "1kg graha po zelji",
+        "crni papar",
+        "zacini"
+      ],
+      "image_url": "https://www.thecountrycook.net/wp-content/uploads/2018/05/Easy-Sausage-Baked-Beans-recipe.jpg",
+      "cooking_time": "80",
+      "how_to_make": "Ocistite i prepolovite luk pa ga narezite na ploske.Zagrijte ulje u posudu za pecenje.Dodajte luk pa ih pirjajte oko 5 minuta.Isperite grah i ostavite da se ocijedi.Narezite kobasice na kriske debele 2.5cm.Pecite ih 5 minuta u tavi,bez dodavanja masnoce,da malo potamne.Stavite na tanjir upijajuci papir i na njegastavite kobasice da se ocijedi masnoca.Luku u posudi za pecenje dodajte paradajz sa sokom,grah,pilecu juhu,sol,origano i papar.Pojacajte vatru i sve prokuhajte.Dodajte kobasice.Smanjite vatru,pokrijte posudu oa grah lagano kuhajte oko 10 minuta.Potom skinute poklopac pa jelo kuhajte jos 5 minuta.",
+      "type": "savory",
+      "servings": "2 osobe"
+    },
+    {
+      "id": 11,
+      "title": "Raznjici od janjetine",
+      "ingredients": [
+        "700gr janjecih odrezaka",
+        "2 cesnja cesnjaka",
+        "3 zlice ulja",
+        "1/2 zlice kurkume",
+        "1/2 zlice kima u prahu",
+        "sol",
+        "kriske limuna,po zelji"
+      ],
+      "image_url": "https://kuharica.avaz.ba/wp-content/uploads/2019/07/janjeci-raznjici.jpg",
+      "cooking_time": "25",
+      "how_to_make": "Ocistite meso od masnoce i kostiju pa ga izrezite na kocke velike 3cm.Ocistite i sitno nasjeckajte cesnjak.U velikoj zdjeli izmijesajte ulje,ocat,cesnjak,kurkuma,kim i sol.Umijesajte meso i ostavite ga 15 minuta na sobnoj temperaturi da se marinira.Ocijedite meso i nabodite ga na 4 raznjica.Dobro razgrijte veliku tava za pecenje.Stavite u nju raznjice i pecite ih  7 minuta s jedne strane.No,nakon 3 minute malo smanjite vatru.Potom ju opet pojacajte,okrenite raznjice i pecite ih 7 minuta sa druge strane.Nakon 3 minute opet smanjite vatru.Slozite raznjice na pladanj ili na 4 tanjira,ukrasite ih kriskama limuna i odmah posluzite",
+      "type": "savory",
+      "servings": "4 osobe"
+    }
+  ]
+}
